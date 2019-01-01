@@ -20,3 +20,6 @@ z ogródkiem. Możliwość zaparkowania 4 samochodów osobowych na posesji.
 *	Minimalizacja hałasu między Sąsiadami zapewniona przez podwójną ścianę wykonaną z pełnych bloczków silikatowych akustycznych gr. 18cm oddzielonych warstwą wełny akustycznej.
 *	Stan deweloperski obejmuje: dach pokryty blachodachówką, tynki, wylewki, instalacja kominowa, okna, drzwi wejściowe, brama garażowa, instalacja elektryczna, hydrauliczna, wykończenie elewacji, ogrzewanie podłogowe, teren wyrównany i uporządkowany. Szczegółowy opis standardu dostępny na życzenie.  
 
+##### Zdjęcia
+###### Filmy
+####### Kontakt
