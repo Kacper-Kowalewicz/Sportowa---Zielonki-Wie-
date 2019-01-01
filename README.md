@@ -22,12 +22,12 @@ z ogródkiem. Możliwość zaparkowania 4 samochodów osobowych na posesji.
 
 # Zdjęcia
 
-# Filmy
-
 #### Kontakt
 
 +48 723-601-906
+
 kacper.kowalewicz@gmail.com
 
 +48 601-443-111
+
 maciej-kowalewicz@wp.pl
