@@ -1,7 +1,9 @@
 <img src="Images/Elewacja%20front.JPG">
 
 # Opis  
+''' markdown
 Nieruchomość stanowi dom jednorodzinny dwulokalowy. Do wyboru jeden z dwóch lokali, które są swoim lustrzanym odbiciem i oddzielone są ścianą przeciwpożarową. Lokale do sprzedaży z niezależną i ogrodzoną działką oraz dostępem do wszystkich mediów - prąd, gaz, woda oraz nowo wybudowana kanalizacja w ul. Sportowej.
+'''
 
 # Lokalizacja
 
@@ -27,24 +29,41 @@ z ogródkiem. Możliwość zaparkowania 4 samochodów osobowych na posesji.
 **_Rzut parteru dla lokalu A_**
 <img src="Images/Parter-A.JPG">
 
+
+**_Rzut piętra dla lokalu A_**
+<img src="Images/Piętro-A.JPG">
+
+
+**_Rzut parteru dla lokalu B_**
+<img src="Images/Parter-B.JPG">
+
+
+**_Rzut piętra dla lokalu B_**
+<img src="Images/Piętro-B.JPG">
 # Wizualizacja vs. Budowa
 **_Wejście - Wiatrołap (Przedpokój)_**
 <img src="Images/porównanie%20wiatrołap.jpg">
 
+
 **_Salon (Widok na klatkę schodową)_**
 <img src="Images/porównanie%20salon1.jpg">
+
 
 **_Salon (Widok na jadalnię)_**
 <img src="Images/porównanie%20salon2.jpg">
 
+
 **_Kuchnia (możliwa wyspa)_**
 <img src="Images/porównanie%20kuchnia.jpg">
+
 
 **_Łazienka na parterze_**
 <img src="Images/porównanie%20wc.jpg">
 
-**_łazienka master na piętrze_**
+
+**_Łazienka master na piętrze_**
 <img src="Images/porównanie%20łazienka%20master.jpg">
+
 
 **_Łazienka dodatkowa na piętrze_**
 <img src="Images/porównanie%20łazienka%20dzieci.jpg">
