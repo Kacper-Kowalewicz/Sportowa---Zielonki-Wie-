@@ -1,5 +1,3 @@
-![Elewacja-frontowa](Images/Elewacja%20front.JPG)
-
 <img src="Images/Elewacja%20front.JPG">
 
 # Opis  
