@@ -1,6 +1,6 @@
-![](Images/Elewacja%20front.JPG/)
+![](Images/Elewacja%20front.JPG)
 
-<img src="Images/Elewacja%20front.JPG" width="100">
+<img src="Images/Elewacja%20front.JPG">
 
 # Opis  
 Nieruchomość stanowi dom jednorodzinny dwulokalowy. Do wyboru jeden z dwóch lokali, które są swoim lustrzanym odbiciem i oddzielone są ścianą przeciwpożarową. Lokale do sprzedaży z niezależną i ogrodzoną działką oraz dostępem do wszystkich mediów - prąd, gaz, woda oraz nowo wybudowana kanalizacja w ul. Sportowej.
