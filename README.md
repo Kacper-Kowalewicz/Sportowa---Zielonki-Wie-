@@ -29,8 +29,19 @@ z ogródkiem. Możliwość zaparkowania 4 samochodów osobowych na posesji.
 
 # Wizualizacja vs. Budowa
 **_Wejście - Wiatrołap (Przedpokój)_**
-<img src="Images/porównanie%20wiatrołap.JPG">
-
+<img src="Images/porównanie%20wiatrołap.jpg">
+**_Salon (Widok na klatkę schodową)_**
+<img src="Images/porównanie%20salon1.jpg">
+**_Salon (Widok na jadalnię)_**
+<img src="Images/porównanie%20salon2.jpg">
+**_Kuchnia (możliwa wyspa)_**
+<img src="Images/porównanie%20kuchnia.jpg">
+**_Łazienka na parterze_**
+<img src="Images/porównanie%20wc.jpg">
+**_łazienka master na piętrze_**
+<img src="Images/porównanie%20łazienka%20master.jpg">
+**_Łazienka dodatkowa na piętrze_**
+<img src="Images/porównanie%20łazienka%20dzieci.jpg">
 #### Kontakt
 
 +48 723-601-906
