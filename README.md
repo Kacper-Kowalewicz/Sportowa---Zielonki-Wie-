@@ -1,5 +1,4 @@
-<img src="Images/Elewacja%20front.JPG">
-# Opis  
+<img src="Images/Elewacja%20front.JPG">  
 Nieruchomość stanowi dom jednorodzinny **dwulokalowy**. Do wyboru jeden z dwóch lokali, które są swoim lustrzanym odbiciem i oddzielone są ścianą przeciwpożarową. Lokale do sprzedaży z **niezależną** i ogrodzoną działką oraz dostępem do wszystkich mediów - prąd, gaz, woda oraz nowo wybudowana kanalizacja w ul. Sportowej.
 
 # Lokalizacja
@@ -27,7 +26,7 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 
 
 **_Rzut piętra dla lokalu A_**
-<img src="Images/Piętro-A.JPG">
+<img src="Images/Pietro-A.JPG">
 
 
 **_Rzut parteru dla lokalu B_**
