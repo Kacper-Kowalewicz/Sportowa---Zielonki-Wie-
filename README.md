@@ -72,6 +72,7 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 **_Łazienka dodatkowa na piętrze_**
 <img src="Images/porównanie%20łazienka%20dzieci.jpg">
 #### Kontakt
+Na życzenie Klienta jesteśmy otwarci na wizyty lokalne i zapoznawcze. Zapraszamy do kontaktu.
 Kacper Kowalewicz | Maciej Kowalewicz
 ----------------- | -----------------
  +48 723-601-906  |  +48 601-443-111
