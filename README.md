@@ -77,3 +77,8 @@ kacper.kowalewicz@gmail.com
 +48 601-443-111
 
 maciej-kowalewicz@wp.pl
+
+Rzuty kondygnacji, elewacja i PZT:
+**Pracownia Projektowa EURO**
+Wizualizacja wnętrz: 
+**eg projekt Ewelina Golinowska**
