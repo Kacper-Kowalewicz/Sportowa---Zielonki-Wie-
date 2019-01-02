@@ -39,14 +39,6 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 
 ## LOKAL A
 
-### LOKAL A
-
-#### LOKAL A
-
-##### LOKAL A
-
-###### LOKAL A
-
 **_Wejście - Wiatrołap (Przedpokój)_**
 <img src="Images/porównanie%20wiatrołap.jpg">
 
@@ -80,19 +72,11 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 **_Łazienka dodatkowa na piętrze_**
 <img src="Images/porównanie%20łazienka%20dzieci.jpg">
 #### Kontakt
+Kacper Kowalewicz | Maciej Kowalewicz
+----------------- | -----------------
+ +48 723-601-906  |  +48 601-443-111
+kacper.kowalewicz@gmail.com | maciej-kowalewicz@wp.pl
 
-+48 723-601-906
+Rzuty kondygnacji, elewacja i PZT: **Pracownia Projektowa EURO**
 
-**kacper.kowalewicz@gmail.com**
-
-+48 601-443-111
-
-**maciej-kowalewicz@wp.pl**
-
-Rzuty kondygnacji, elewacja i PZT:
-
-**Pracownia Projektowa EURO**
-
-Wizualizacja wnętrz: 
-
-**EG Projekt Ewelina Golinowska**
+Wizualizacja wnętrz: **EG Projekt Ewelina Golinowska**
