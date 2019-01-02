@@ -8,7 +8,7 @@ Nieruchomość położona na ul. **Sportowej**, miejscowość Zielonki Wieś, gm
 <img src="Images/Lokalizacja2.JPG">
 
 # Informacje
-Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogródka na tyłach domu. Powierzchnia jednego lokalu to ok. **250m2** obejmujących parter i piętro. **W cenie** zawiera się również ocieplone poddasze pod indywidualną aranżację. Osiągnięcie stanu deweloperskiego budynku nastąpi między II, a III kwartałem **2019r**. 
+Działka każdego z segmentów ma powierzchnię **470m^2** w tym ok. 210m_2 ogródka na tyłach domu. Powierzchnia jednego lokalu to ok. **250m2** obejmujących parter i piętro. **W cenie** zawiera się również ocieplone poddasze pod indywidualną aranżację. Osiągnięcie stanu deweloperskiego budynku nastąpi między II, a III kwartałem **2019r**. 
 <img src="Images/PZT.JPG">
 
 # Udogodnienia
