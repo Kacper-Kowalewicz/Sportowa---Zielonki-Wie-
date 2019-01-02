@@ -7,8 +7,10 @@ Nieruchomość stanowi dom jednorodzinny dwulokalowy. Do wyboru jeden z dwóch l
 
 Nieruchomość położona na ul. Sportowej, miejscowość Zielonki Wieś, gmina Stare Babice. Bliskość do ul. Warszawskiej i ul. Sienkiewicza stanowi korzystną lokalizację zarówno dla celów dojazdu do centrum Warszawy (ul. Warszawska bezpośrednio łączy się z drogą ekspresową S8), jak i chęci wyjazdu wgłąb Polski. Dynamicznie rozwijająca się infrastruktura w okolicy i nowa droga asfaltowa ul. Sportowej ze ścieżką rowerową i chodnikiem gwarantuje uśmiech na twarzy mieszkańców.
 
-# Informacje
+<img src="Images/Lokalizacja2.JPG">
 
+# Informacje
+<img src="Images/PZT.JPG">
 Działka każdego z segmentów ma powierzchnię 470m2 w tym ok. 210m2 ogródka na tyłach domu. Powierzchnia jednego lokalu to ok. 250m2 obejmujących parter i piętro. W cenie zawiera się również ocieplone poddasze pod indywidualną aranżację. Osiągnięcie stanu deweloperskiego budynku nastąpi między II, a III kwartałem 2019r. 
 
 # Udogodnienia
@@ -21,7 +23,13 @@ z ogródkiem. Możliwość zaparkowania 4 samochodów osobowych na posesji.
 *	Minimalizacja hałasu między Sąsiadami zapewniona przez podwójną ścianę wykonaną z pełnych bloczków silikatowych akustycznych gr. 18cm oddzielonych warstwą wełny akustycznej.
 *	Stan deweloperski obejmuje: dach pokryty blachodachówką, tynki, wylewki, instalacja kominowa, okna, drzwi wejściowe, brama garażowa, instalacja elektryczna, hydrauliczna, wykończenie elewacji, ogrzewanie podłogowe, teren wyrównany i uporządkowany. Szczegółowy opis standardu dostępny na życzenie.  
 
-# Zdjęcia
+# Rzuty kondygnacji
+**_Rzut parteru dla lokalu A_**
+<img src="Images/Parter-A.JPG">
+
+# Wizualizacja vs. Budowa
+**_Wejście - Wiatrołap (Przedpokój)_**
+<img src="Images/porównanie%20wiatrołap.JPG">
 
 #### Kontakt
 
