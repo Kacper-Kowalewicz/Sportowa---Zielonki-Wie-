@@ -72,11 +72,11 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 
 +48 723-601-906
 
-kacper.kowalewicz@gmail.com
+**kacper.kowalewicz@gmail.com**
 
 +48 601-443-111
 
-maciej-kowalewicz@wp.pl
+**maciej-kowalewicz@wp.pl**
 
 Rzuty kondygnacji, elewacja i PZT:
 
@@ -84,4 +84,4 @@ Rzuty kondygnacji, elewacja i PZT:
 
 Wizualizacja wnętrz: 
 
-**eg projekt Ewelina Golinowska**
+**EG Projekt Ewelina Golinowska**
