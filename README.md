@@ -36,11 +36,16 @@ Działka każdego z segmentów ma powierzchnię **470m2** w tym ok. 210m2 ogród
 **_Rzut piętra dla lokalu B_**
 <img src="Images/Piętro-B.JPG">
 # Wizualizacja vs. Budowa
-##LOKAL A
-###LOKAL A
-####LOKAL A
-#####LOKAL A
-######LOKAL A
+
+## LOKAL A
+
+### LOKAL A
+
+#### LOKAL A
+
+##### LOKAL A
+
+###### LOKAL A
 
 **_Wejście - Wiatrołap (Przedpokój)_**
 <img src="Images/porównanie%20wiatrołap.jpg">
